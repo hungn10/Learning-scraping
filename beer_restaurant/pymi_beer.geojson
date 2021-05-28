@@ -1,1 +1,705 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0088639, 105.8343192]}, "properties": {"Address": "65 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Trung T\u1ef1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "Bia H\u01a1i V\u00e0 Nh\u1eadu B\u00ecnh D\u00e2n - Qu\u00e1n Ph\u01b0\u1ee3ng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0142953, 105.8040214]}, "properties": {"Address": "19 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Bia H\u01a1i Gi\u1edd Th\u1ee9 9"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0216606, 105.8154433]}, "properties": {"Address": "8B3 Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n nh\u1eadu"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.018079, 105.8180913]}, "properties": {"Address": "304 Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vietnam", "name": "Beer H\u00e0 H\u1ed3"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0186069, 105.8111083]}, "properties": {"Address": "110 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, L\u00e1ng H\u1ea1, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Bia H\u01a1i Ng\u1ecdc H\u1eb1ng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9980451, 105.8280734]}, "properties": {"Address": "86B L\u00ea Tr\u1ecdng T\u1ea5n, Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Bia H\u01a1i H\u1ea3i X\u1ed3m"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0071034, 105.8363414]}, "properties": {"Address": "71 Ph\u1ed1 L\u01b0\u01a1ng \u0110\u1ecbnh C\u1ee7a, Kim Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia H\u01a1i H\u00e0 N\u1ed9i 71"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0303085, 105.8336988]}, "properties": {"Address": "6 H\u00e0ng Ch\u00e1o, C\u00e1t Linh, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia H\u00e0ng \u0110\u1eaby"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0144518, 105.823778]}, "properties": {"Address": "18, 75 Tr\u1ea7n Quang Di\u1ec7u, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia H\u01a1i H\u00e0 N\u1ed9i - Beer V\u0169"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0256614, 105.8347964]}, "properties": {"Address": "23 Ng\u00f5 Th\u00f4ng Phong, Qu\u1ed1c T\u1eed Gi\u00e1m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i 67337, Vietnam", "name": "Qu\u1eadn 8 Beer Club"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0226324, 105.8187622]}, "properties": {"Address": "2 L\u00e1ng H\u1ea1, Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "New Sphinx Beer Bar"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0060408, 105.8224494]}, "properties": {"Address": "6 Th\u00e1i Th\u1ecbnh, Ng\u00e3 T\u01b0 S\u1edf, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia B\u00e0 \u0110\u1ea1t"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.01568, 105.809441]}, "properties": {"Address": "68 Nguy\u00ean H\u1ed3ng, L\u00e1ng H\u1ea1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "X\u00edch Beer - 68 Nguy\u00ean H\u1ed3ng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.01185, 105.8099576]}, "properties": {"Address": "540 \u0110. L\u00e1ng, Trung Ho\u00e0, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "V\u01b0\u1eddn Bia H\u00e0 N\u1ed9i 540 \u0110\u01b0\u1eddng L\u00e1ng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0190917, 105.8412624]}, "properties": {"Address": "138 \u0110\u01b0\u1eddng L\u00ea Du\u1ea9n, Kh\u00e2m Thi\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia H\u01a1i C\u01b0\u1eddng Nga"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0186203, 105.8028307]}, "properties": {"Address": "816 \u0110. L\u00e1ng, Trung Ho\u00e0, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia M\u1eabn"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0107299, 105.840332]}, "properties": {"Address": "302 P. \u00d4 \u0110\u1ed3ng L\u1ea7m, Ph\u01b0\u01a1ng Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia h\u01a1i L\u1ed9c V\u1eebng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0212009, 105.8149926]}, "properties": {"Address": "B1A Th\u00e0nh C\u00f4ng, Khu t\u1eadp th\u1ec3 B\u1eafc Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "Beer Henniger Ph\u01b0\u01a1ng Ng\u1ecdc - T\u1ee5 \u0111i\u1ec3m \u0103n nh\u1eadu \u0110\u1ea3ng B\u1ed9 ODS"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0074679, 105.83245]}, "properties": {"Address": "65 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Trung T\u1ef1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "Qu\u00e1n Ph\u01b0\u1ee3ng - Bia H\u01a1i Henninger"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0146009, 105.8174069]}, "properties": {"Address": "T\u1ea7ng M T\u00f2a nh\u00e0 S\u00f4ng H\u1ed3ng Park View B, 165 Th\u00e1i H\u00e0, L\u00e1ng H\u1ea1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 122003, Vietnam", "name": "Sparta Beer Club"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0142805, 105.8338683]}, "properties": {"Address": "163 P. X\u00e3 \u0110\u00e0n, Nam \u0110\u1ed3ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Ph\u00fac Th\u1ecd- Bia h\u01a1i H\u00e0 N\u1ed9i"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0125804, 105.835293]}, "properties": {"Address": "81 P. X\u00e3 \u0110\u00e0n, Ph\u01b0\u01a1ng Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Bia 81"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0113129, 105.8315167]}, "properties": {"Address": "114, D1 Ph\u1ed1 \u0110\u1eb7ng V\u0103n Ng\u1eef, Nam \u0110\u1ed3ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia D\u0169ng B\u1ea3o Kh\u00e1nh"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0288461, 105.832563]}, "properties": {"Address": "C\u00e1t Linh, \u0110\u1ed1ng \u0110a, Hanoi, Vietnam", "name": "Nh\u00e0 h\u00e0ng Th\u00e0nh \u0110en"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0180194, 105.8287856]}, "properties": {"Address": "21 Ph\u1ed1 \u0110\u00f4ng C\u00e1c, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "bia h\u01a1i Ho\u00e0n b\u00e9o"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0199049, 105.8260585]}, "properties": {"Address": "s\u1ed1 12 ng\u00f5 9 ho\u00e0ng c\u1ea7u (ng\u00f5 \u0111i v\u00e0o), 159 Ph\u1ed1 \u0110\u00f4ng C\u00e1c, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n nh\u1eadu B\u1ebfn"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0111985, 105.8322789]}, "properties": {"Address": "103 D7 Trung T\u1ef1, Trung T\u1ef1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia t\u01b0\u01a1i Th\u1ecbnh L\u01a1"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.027529, 105.8421531]}, "properties": {"Address": "124 Hai B\u00e0 Tr\u01b0ng, C\u1eeda Nam, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia T\u01b0\u01a1i Ho\u00e0ng \u0110\u1ea1t"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0274277, 105.8332692]}, "properties": {"Address": "7 \u0110\u1eb7ng Tr\u1ea7n C\u00f4n, Qu\u1ed1c T\u1eed Gi\u00e1m, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia H\u01a0I"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0080626, 105.8201493]}, "properties": {"Address": "105 nh\u00e0 C2 t\u1eadp th\u1ec3, Ph\u1ed1 V\u0129nh H\u1ed3, Th\u1ecbnh Quang, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia Giang C\u00f2i"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0191388, 105.8209948]}, "properties": {"Address": "86 Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia hoi D\u0169ng B\u00e9o"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9929752, 105.8246784]}, "properties": {"Address": "S\u1ed1 33 B\u1eafc H\u1ed3ng 3, Kh\u01b0\u01a1ng Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vietnam", "name": "Bia Qu\u00e1n T\u01b0\u01a1i"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0006322, 105.8027175]}, "properties": {"Address": "99a Ng\u1ee5y Nh\u01b0 Kon Tum, Nh\u00e2n Ch\u00ednh, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng H\u01b0\u01a1ng X\u01b0a H\u1ea3i H\u00f3i C\u00e1 S\u00f4ng L\u00f4"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9937869, 105.8010381]}, "properties": {"Address": "75, Khu\u1ea5t Duy Ti\u1ebfn, Qu\u1eadn Thanh Xu\u00e2n, Thanh Xu\u00e2n B\u1eafc, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia H\u01a1i 75"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0207633, 105.8140019]}, "properties": {"Address": "108 Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia C\u00e2y Si"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0082865, 105.8352676]}, "properties": {"Address": "116 B8 Ng\u00f5 65 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Kim Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "Qu\u00e1n Ph\u01b0\u1ee3ng - Bia H\u01a1i Henninger"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9977935, 105.8289385]}, "properties": {"Address": "88 L\u00ea Tr\u1ecdng T\u1ea5n, Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Beer 39"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9989497, 105.8409555]}, "properties": {"Address": "Ph\u01b0\u01a1ng \u0110\u00ecnh, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Thanh H\u00e0 Bia h\u01a1i H\u00e0 N\u1ed9i"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0087735, 105.8209894]}, "properties": {"Address": "66 298 T\u00f2a nh\u00e0 Kinh \u0110\u00f4, T\u00e2y S\u01a1n, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "VITAMIN BEER"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0325488, 105.8345648]}, "properties": {"Address": "37 H\u00f9ng V\u01b0\u01a1ng, \u0110i\u1ec7n B\u00e0n, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n bia 37 H\u00f9ng V\u01b0\u01a1ng"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0189579, 105.8216111]}, "properties": {"Address": "72 Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "Nh\u00e0 H\u00e0ng Bia Henninger T\u00ednh Th\u00fay"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.005934, 105.8011656]}, "properties": {"Address": "2A Nguy\u1ec5n Th\u1ecb Th\u1eadp, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "Th\u1ebf Gi\u1edbi Bia L\u00e3 V\u1ecdng - V\u01b0\u1eddn Bia H\u00e0 N\u1ed9i"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.9943528, 105.8330959]}, "properties": {"Address": "Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, Hanoi, Vietnam", "name": "Bia h\u01a1i \u0110oan M\u00f4n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0180148, 105.8031056]}, "properties": {"Address": "790 \u0110. L\u00e1ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 100000, Vietnam", "name": "BIA \u0110\u01af\u0301C TRO\u0323C \u0110\u01af\u01a0\u0300NG LA\u0301NG"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.019488, 105.8418925]}, "properties": {"Address": "8 V\u0169 H\u1eefu L\u1ee3i, Nguy\u1ec5n Du, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i, Vietnam", "name": "Qu\u00e1n Bia H\u01a1i Dung \u0110en"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0191071, 105.8294116]}, "properties": {"Address": "T\u1ea7ng 3 s\u1ed1, 1 P. \u00d4 Ch\u1ee3 D\u1eeba, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "TopU Beer Club & Lounge"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0126079, 105.8013077]}, "properties": {"Address": "48 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i, Vietnam", "name": "Bazooka Beer Club"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0136851, 105.8269406]}, "properties": {"Address": "18 T\u00e2y S\u01a1n, Quang Trung, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "T\u1eedu T\u00e0i Qu\u00e1n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.0038113, 105.8216045]}, "properties": {"Address": "319 T\u00e2y S\u01a1n, Th\u1ecbnh Quang, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vietnam", "name": "319 Beer Club - Bar One Night"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.999726, 105.833337]}, "properties": {"Address": "168 Tr\u01b0\u1eddng Chinh, Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i 10000, Vietnam", "name": "M5+ Restaurant - Longan Tree"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0088639,
+                    105.8343192
+                ]
+            },
+            "properties": {
+                "Address": "65 Phạm Ngọc Thạch, Trung Tự, Đống Đa, Hà Nội 100000, Vietnam",
+                "name": "Bia Hơi Và Nhậu Bình Dân - Quán Phượng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0142953,
+                    105.8040214
+                ]
+            },
+            "properties": {
+                "Address": "19 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Bia Hơi Giờ Thứ 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0216606,
+                    105.8154433
+                ]
+            },
+            "properties": {
+                "Address": "8B3 Thành Công, Ba Đình, Hà Nội, Vietnam",
+                "name": "Quán nhậu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.018079,
+                    105.8180913
+                ]
+            },
+            "properties": {
+                "Address": "304 Mai Anh Tuấn, Chợ Dừa, Hoàn Kiếm, Hà Nội, Vietnam",
+                "name": "Beer Hà Hồ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0186069,
+                    105.8111083
+                ]
+            },
+            "properties": {
+                "Address": "110 Huỳnh Thúc Kháng, Láng Hạ, Ba Đình, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Bia Hơi Ngọc Hằng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9980451,
+                    105.8280734
+                ]
+            },
+            "properties": {
+                "Address": "86B Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Bia Hơi Hải Xồm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0071034,
+                    105.8363414
+                ]
+            },
+            "properties": {
+                "Address": "71 Phố Lương Định Của, Kim Liên, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Hơi Hà Nội 71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0303085,
+                    105.8336988
+                ]
+            },
+            "properties": {
+                "Address": "6 Hàng Cháo, Cát Linh, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Hàng Đẫy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0144518,
+                    105.823778
+                ]
+            },
+            "properties": {
+                "Address": "18, 75 Trần Quang Diệu, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia Hơi Hà Nội - Beer Vũ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0256614,
+                    105.8347964
+                ]
+            },
+            "properties": {
+                "Address": "23 Ngõ Thông Phong, Quốc Tử Giám, Hoàn Kiếm, Hà Nội 67337, Vietnam",
+                "name": "Quận 8 Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0226324,
+                    105.8187622
+                ]
+            },
+            "properties": {
+                "Address": "2 Láng Hạ, Thành Công, Ba Đình, Hà Nội, Vietnam",
+                "name": "New Sphinx Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0060408,
+                    105.8224494
+                ]
+            },
+            "properties": {
+                "Address": "6 Thái Thịnh, Ngã Tư Sở, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Bà Đạt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01568,
+                    105.809441
+                ]
+            },
+            "properties": {
+                "Address": "68 Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội, Vietnam",
+                "name": "Xích Beer - 68 Nguyên Hồng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01185,
+                    105.8099576
+                ]
+            },
+            "properties": {
+                "Address": "540 Đ. Láng, Trung Hoà, Đống Đa, Hà Nội 100000, Vietnam",
+                "name": "Vườn Bia Hà Nội 540 Đường Láng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0190917,
+                    105.8412624
+                ]
+            },
+            "properties": {
+                "Address": "138 Đường Lê Duẩn, Khâm Thiên, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Hơi Cường Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0186203,
+                    105.8028307
+                ]
+            },
+            "properties": {
+                "Address": "816 Đ. Láng, Trung Hoà, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Mẫn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0107299,
+                    105.840332
+                ]
+            },
+            "properties": {
+                "Address": "302 P. Ô Đồng Lầm, Phương Liên, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia hơi Lộc Vừng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0212009,
+                    105.8149926
+                ]
+            },
+            "properties": {
+                "Address": "B1A Thành Công, Khu tập thể Bắc Thành Công, Ba Đình, Hà Nội, Vietnam",
+                "name": "Beer Henniger Phương Ngọc - Tụ điểm ăn nhậu Đảng Bộ ODS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0074679,
+                    105.83245
+                ]
+            },
+            "properties": {
+                "Address": "65 Phạm Ngọc Thạch, Trung Tự, Đống Đa, Hà Nội 100000, Vietnam",
+                "name": "Quán Phượng - Bia Hơi Henninger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0146009,
+                    105.8174069
+                ]
+            },
+            "properties": {
+                "Address": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội 122003, Vietnam",
+                "name": "Sparta Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0142805,
+                    105.8338683
+                ]
+            },
+            "properties": {
+                "Address": "163 P. Xã Đàn, Nam Đồng, Đống Đa, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Phúc Thọ- Bia hơi Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0125804,
+                    105.835293
+                ]
+            },
+            "properties": {
+                "Address": "81 P. Xã Đàn, Phương Liên, Đống Đa, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Bia 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0113129,
+                    105.8315167
+                ]
+            },
+            "properties": {
+                "Address": "114, D1 Phố Đặng Văn Ngữ, Nam Đồng, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia Dũng Bảo Khánh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0288461,
+                    105.832563
+                ]
+            },
+            "properties": {
+                "Address": "Cát Linh, Đống Đa, Hanoi, Vietnam",
+                "name": "Nhà hàng Thành Đen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0180194,
+                    105.8287856
+                ]
+            },
+            "properties": {
+                "Address": "21 Phố Đông Các, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "bia hơi Hoàn béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0199049,
+                    105.8260585
+                ]
+            },
+            "properties": {
+                "Address": "số 12 ngõ 9 hoàng cầu (ngõ đi vào), 159 Phố Đông Các, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán nhậu Bến"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0111985,
+                    105.8322789
+                ]
+            },
+            "properties": {
+                "Address": "103 D7 Trung Tự, Trung Tự, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia tươi Thịnh Lơ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.027529,
+                    105.8421531
+                ]
+            },
+            "properties": {
+                "Address": "124 Hai Bà Trưng, Cửa Nam, Hoàn Kiếm, Hà Nội, Vietnam",
+                "name": "Quán Bia Tươi Hoàng Đạt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0274277,
+                    105.8332692
+                ]
+            },
+            "properties": {
+                "Address": "7 Đặng Trần Côn, Quốc Tử Giám, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia HƠI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0080626,
+                    105.8201493
+                ]
+            },
+            "properties": {
+                "Address": "105 nhà C2 tập thể, Phố Vĩnh Hồ, Thịnh Quang, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán Bia Giang Còi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0191388,
+                    105.8209948
+                ]
+            },
+            "properties": {
+                "Address": "86 Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia hoi Dũng Béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9929752,
+                    105.8246784
+                ]
+            },
+            "properties": {
+                "Address": "Số 33 Bắc Hồng 3, Khương Trung, Thanh Xuân, Hà Nội, Vietnam",
+                "name": "Bia Quán Tươi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006322,
+                    105.8027175
+                ]
+            },
+            "properties": {
+                "Address": "99a Ngụy Như Kon Tum, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Hương Xưa Hải Hói Cá Sông Lô"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9937869,
+                    105.8010381
+                ]
+            },
+            "properties": {
+                "Address": "75, Khuất Duy Tiến, Quận Thanh Xuân, Thanh Xuân Bắc, Thanh Xuân, Hà Nội, Vietnam",
+                "name": "Quán Bia Hơi 75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0207633,
+                    105.8140019
+                ]
+            },
+            "properties": {
+                "Address": "108 Thành Công, Ba Đình, Hà Nội, Vietnam",
+                "name": "Quán Bia Cây Si"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0082865,
+                    105.8352676
+                ]
+            },
+            "properties": {
+                "Address": "116 B8 Ngõ 65 Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội 100000, Vietnam",
+                "name": "Quán Phượng - Bia Hơi Henninger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9977935,
+                    105.8289385
+                ]
+            },
+            "properties": {
+                "Address": "88 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Beer 39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9989497,
+                    105.8409555
+                ]
+            },
+            "properties": {
+                "Address": "Phương Đình, Đống Đa, Hà Nội, Vietnam",
+                "name": "Thanh Hà Bia hơi Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0087735,
+                    105.8209894
+                ]
+            },
+            "properties": {
+                "Address": "66 298 Tòa nhà Kinh Đô, Tây Sơn, Trung Liệt, Đống Đa, Hà Nội, Vietnam",
+                "name": "VITAMIN BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0325488,
+                    105.8345648
+                ]
+            },
+            "properties": {
+                "Address": "37 Hùng Vương, Điện Bàn, Ba Đình, Hà Nội, Vietnam",
+                "name": "Quán bia 37 Hùng Vương"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0189579,
+                    105.8216111
+                ]
+            },
+            "properties": {
+                "Address": "72 Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Nhà Hàng Bia Henninger Tính Thúy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.005934,
+                    105.8011656
+                ]
+            },
+            "properties": {
+                "Address": "2A Nguyễn Thị Thập, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",
+                "name": "Thế Giới Bia Lã Vọng - Vườn Bia Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9943528,
+                    105.8330959
+                ]
+            },
+            "properties": {
+                "Address": "Khương Mai, Thanh Xuân, Hanoi, Vietnam",
+                "name": "Bia hơi Đoan Môn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0180148,
+                    105.8031056
+                ]
+            },
+            "properties": {
+                "Address": "790 Đ. Láng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",
+                "name": "BIA ĐỨC TRỌC ĐƯỜNG LÁNG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.019488,
+                    105.8418925
+                ]
+            },
+            "properties": {
+                "Address": "8 Vũ Hữu Lợi, Nguyễn Du, Hai Bà Trưng, Hà Nội, Vietnam",
+                "name": "Quán Bia Hơi Dung Đen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0126079,
+                    105.8013077
+                ]
+            },
+            "properties": {
+                "Address": "48 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam",
+                "name": "Bazooka Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0136851,
+                    105.8269406
+                ]
+            },
+            "properties": {
+                "Address": "18 Tây Sơn, Quang Trung, Đống Đa, Hà Nội, Vietnam",
+                "name": "Tửu Tài Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0038113,
+                    105.8216045
+                ]
+            },
+            "properties": {
+                "Address": "319 Tây Sơn, Thịnh Quang, Đống Đa, Hà Nội, Vietnam",
+                "name": "319 Beer Club - Bar One Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.999726,
+                    105.833337
+                ]
+            },
+            "properties": {
+                "Address": "168 Trường Chinh, Khương Thượng, Đống Đa, Hà Nội 10000, Vietnam",
+                "name": "M5+ Restaurant - Longan Tree"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0190058,
+                    105.829191
+                ]
+            },
+            "properties": {
+                "Address": "Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Quán M5+"
+            }
+        }
+    ]
+}

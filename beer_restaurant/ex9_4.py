@@ -94,10 +94,11 @@ def export_geojson_file(places):
         "features" : places
     }
 
-    with open("pymi_beer.geojson", mode="wt") as f:
-        f.write(json.dumps(data))
+    with open("pymi_beer.geojson", "wt", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
-    rint("Sucessful!!")
+
+    print("Sucessful!!")
 
 
 def main():
@@ -108,7 +109,6 @@ def main():
     keyword = ["quán nhậu", "quán bia", "quán bar"]
 
     places = find_nearby(lat, long, rad, type, keyword)
-    pprint.pprint(len(places))
     export_geojson_file(places)
 
 if __name__ == "__main__":

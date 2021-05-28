@@ -1,12 +1,13 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0088639,
-                    105.8343192
+                    105.8343192,
+                    21.0088639
                 ]
             },
             "properties": {
@@ -19,8 +20,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0142953,
-                    105.8040214
+                    105.8040214,
+                    21.0142953
                 ]
             },
             "properties": {
@@ -33,8 +34,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0216606,
-                    105.8154433
+                    105.8154433,
+                    21.0216606
                 ]
             },
             "properties": {
@@ -47,8 +48,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.018079,
-                    105.8180913
+                    105.8180913,
+                    21.018079
                 ]
             },
             "properties": {
@@ -61,8 +62,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0186069,
-                    105.8111083
+                    105.8111083,
+                    21.0186069
                 ]
             },
             "properties": {
@@ -75,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9980451,
-                    105.8280734
+                    105.8280734,
+                    20.9980451
                 ]
             },
             "properties": {
@@ -89,8 +90,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0071034,
-                    105.8363414
+                    105.8363414,
+                    21.0071034
                 ]
             },
             "properties": {
@@ -103,8 +104,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0303085,
-                    105.8336988
+                    105.8336988,
+                    21.0303085
                 ]
             },
             "properties": {
@@ -117,22 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0144518,
-                    105.823778
-                ]
-            },
-            "properties": {
-                "Address": "18, 75 Trần Quang Diệu, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
-                "name": "Bia Hơi Hà Nội - Beer Vũ"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.0256614,
-                    105.8347964
+                    105.8347964,
+                    21.0256614
                 ]
             },
             "properties": {
@@ -145,22 +132,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0226324,
-                    105.8187622
-                ]
-            },
-            "properties": {
-                "Address": "2 Láng Hạ, Thành Công, Ba Đình, Hà Nội, Vietnam",
-                "name": "New Sphinx Beer Bar"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.0060408,
-                    105.8224494
+                    105.8224494,
+                    21.0060408
                 ]
             },
             "properties": {
@@ -173,8 +146,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.01568,
-                    105.809441
+                    105.823778,
+                    21.0144518
+                ]
+            },
+            "properties": {
+                "Address": "18, 75 Trần Quang Diệu, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "Bia Hơi Hà Nội - Beer Vũ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8187622,
+                    21.0226324
+                ]
+            },
+            "properties": {
+                "Address": "2 Láng Hạ, Thành Công, Ba Đình, Hà Nội, Vietnam",
+                "name": "New Sphinx Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.809441,
+                    21.01568
                 ]
             },
             "properties": {
@@ -187,22 +188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.01185,
-                    105.8099576
-                ]
-            },
-            "properties": {
-                "Address": "540 Đ. Láng, Trung Hoà, Đống Đa, Hà Nội 100000, Vietnam",
-                "name": "Vườn Bia Hà Nội 540 Đường Láng"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.0190917,
-                    105.8412624
+                    105.8412624,
+                    21.0190917
                 ]
             },
             "properties": {
@@ -215,8 +202,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0186203,
-                    105.8028307
+                    105.8028307,
+                    21.0186203
                 ]
             },
             "properties": {
@@ -229,8 +216,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0107299,
-                    105.840332
+                    105.8099576,
+                    21.01185
+                ]
+            },
+            "properties": {
+                "Address": "540 Đ. Láng, Trung Hoà, Đống Đa, Hà Nội 100000, Vietnam",
+                "name": "Vườn Bia Hà Nội 540 Đường Láng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.840332,
+                    21.0107299
                 ]
             },
             "properties": {
@@ -243,8 +244,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0212009,
-                    105.8149926
+                    105.8149926,
+                    21.0212009
                 ]
             },
             "properties": {
@@ -257,8 +258,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0074679,
-                    105.83245
+                    105.83245,
+                    21.0074679
                 ]
             },
             "properties": {
@@ -271,22 +272,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0146009,
-                    105.8174069
-                ]
-            },
-            "properties": {
-                "Address": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội 122003, Vietnam",
-                "name": "Sparta Beer Club"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.0142805,
-                    105.8338683
+                    105.8338683,
+                    21.0142805
                 ]
             },
             "properties": {
@@ -299,8 +286,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0125804,
-                    105.835293
+                    105.8174069,
+                    21.0146009
+                ]
+            },
+            "properties": {
+                "Address": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội 122003, Vietnam",
+                "name": "Sparta Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.835293,
+                    21.0125804
                 ]
             },
             "properties": {
@@ -313,8 +314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0113129,
-                    105.8315167
+                    105.8315167,
+                    21.0113129
                 ]
             },
             "properties": {
@@ -327,8 +328,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0288461,
-                    105.832563
+                    105.832563,
+                    21.0288461
                 ]
             },
             "properties": {
@@ -341,8 +342,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0180194,
-                    105.8287856
+                    105.8287856,
+                    21.0180194
                 ]
             },
             "properties": {
@@ -355,8 +356,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0199049,
-                    105.8260585
+                    105.8260585,
+                    21.0199049
                 ]
             },
             "properties": {
@@ -369,8 +370,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0111985,
-                    105.8322789
+                    105.8322789,
+                    21.0111985
                 ]
             },
             "properties": {
@@ -383,8 +384,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.027529,
-                    105.8421531
+                    105.8421531,
+                    21.027529
                 ]
             },
             "properties": {
@@ -397,8 +398,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0274277,
-                    105.8332692
+                    105.8332692,
+                    21.0274277
                 ]
             },
             "properties": {
@@ -411,8 +412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0080626,
-                    105.8201493
+                    105.8201493,
+                    21.0080626
                 ]
             },
             "properties": {
@@ -425,8 +426,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0191388,
-                    105.8209948
+                    105.8209948,
+                    21.0191388
                 ]
             },
             "properties": {
@@ -439,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9929752,
-                    105.8246784
+                    105.8246784,
+                    20.9929752
                 ]
             },
             "properties": {
@@ -453,8 +454,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0006322,
-                    105.8027175
+                    105.8027175,
+                    21.0006322
                 ]
             },
             "properties": {
@@ -467,8 +468,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9937869,
-                    105.8010381
+                    105.8010381,
+                    20.9937869
                 ]
             },
             "properties": {
@@ -481,8 +482,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0207633,
-                    105.8140019
+                    105.8140019,
+                    21.0207633
                 ]
             },
             "properties": {
@@ -495,8 +496,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0082865,
-                    105.8352676
+                    105.8352676,
+                    21.0082865
                 ]
             },
             "properties": {
@@ -509,8 +510,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9977935,
-                    105.8289385
+                    105.8289385,
+                    20.9977935
                 ]
             },
             "properties": {
@@ -523,8 +524,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9989497,
-                    105.8409555
+                    105.8409555,
+                    20.9989497
                 ]
             },
             "properties": {
@@ -537,8 +538,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0087735,
-                    105.8209894
+                    105.8209894,
+                    21.0087735
                 ]
             },
             "properties": {
@@ -551,8 +552,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0325488,
-                    105.8345648
+                    105.8345648,
+                    21.0325488
                 ]
             },
             "properties": {
@@ -565,8 +566,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0189579,
-                    105.8216111
+                    105.8216111,
+                    21.0189579
                 ]
             },
             "properties": {
@@ -579,8 +580,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.005934,
-                    105.8011656
+                    105.8011656,
+                    21.005934
                 ]
             },
             "properties": {
@@ -593,8 +594,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.9943528,
-                    105.8330959
+                    105.8330959,
+                    20.9943528
                 ]
             },
             "properties": {
@@ -607,8 +608,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0180148,
-                    105.8031056
+                    105.8224599,
+                    21.02756
+                ]
+            },
+            "properties": {
+                "Address": "107 C8 lane 12 Nui Truc, Giảng Võ, Ba Đình, Hà Nội, Vietnam",
+                "name": "La Cà Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8031056,
+                    21.0180148
                 ]
             },
             "properties": {
@@ -621,8 +636,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.019488,
-                    105.8418925
+                    105.8418925,
+                    21.019488
                 ]
             },
             "properties": {
@@ -635,8 +650,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0126079,
-                    105.8013077
+                    105.8294116,
+                    21.0191071
+                ]
+            },
+            "properties": {
+                "Address": "Tầng 3 số, 1 P. Ô Chợ Dừa, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+                "name": "TopU Beer Club & Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8013077,
+                    21.0126079
                 ]
             },
             "properties": {
@@ -649,8 +678,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0136851,
-                    105.8269406
+                    105.8269406,
+                    21.0136851
                 ]
             },
             "properties": {
@@ -663,41 +692,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.0038113,
-                    105.8216045
+                    105.8216045,
+                    21.0038113
                 ]
             },
             "properties": {
                 "Address": "319 Tây Sơn, Thịnh Quang, Đống Đa, Hà Nội, Vietnam",
                 "name": "319 Beer Club - Bar One Night"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.999726,
-                    105.833337
-                ]
-            },
-            "properties": {
-                "Address": "168 Trường Chinh, Khương Thượng, Đống Đa, Hà Nội 10000, Vietnam",
-                "name": "M5+ Restaurant - Longan Tree"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.0190058,
-                    105.829191
-                ]
-            },
-            "properties": {
-                "Address": "Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
-                "name": "Quán M5+"
             }
         }
     ]
